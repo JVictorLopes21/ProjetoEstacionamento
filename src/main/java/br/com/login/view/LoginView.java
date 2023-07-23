@@ -6,7 +6,7 @@ package br.com.login.view;
 
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
-
+//teste
 /**
  *
  * @author jvict
